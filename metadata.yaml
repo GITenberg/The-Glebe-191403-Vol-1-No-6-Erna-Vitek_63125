@@ -1,0 +1,45 @@
+_repo: The-Glebe-191403-Vol-1-No-6-Erna-Vitek_63125
+_version: 0.0.1
+creator:
+  author: &id001
+    agent_name: Kreymborg, Alfred
+    birthdate: 1883
+    deathdate: 1966
+    gutenberg_agent_id: '35239'
+    url: http://www.gutenberg.org/2009/agents/35239
+    wikipedia: https://en.wikipedia.org/wiki/Alfred_Kreymborg
+  editors:
+  - *id001
+  - agent_name: Man Ray
+    aliases:
+    - Radnitzky, Emmanuel
+    - Radenski, Emmanuel
+    - Rudnitsky, Emmanuel
+    - Ray, Man
+    - Rudnitzky, Emmanuel
+    - Rudnizky, Emmanuel
+    birthdate: 1890
+    deathdate: 1976
+    gutenberg_agent_id: '51051'
+    url: http://www.gutenberg.org/2009/agents/51051
+    wikipedia: https://en.wikipedia.org/wiki/Man_Ray
+description: ''
+gutenberg_issued: '2020-09-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63125'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boxers (Sports) -- Fiction'
+- !lcsh 'Literature, Modern -- 20th century -- Periodicals'
+- !lcc 'PS'
+- !lcsh 'New York (N.Y.) -- Fiction'
+- !lcsh 'Social classes -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Waitresses -- Fiction'
+- GITenberg
+title: 'The Glebe 1914/03 (Vol. 1, No. 6): Erna Vitek'
+url: http://www.gutenberg.org/ebooks/63125
